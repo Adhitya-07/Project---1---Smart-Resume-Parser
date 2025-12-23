@@ -1,0 +1,6 @@
+
+{
+  "name": "Smart Resume Parser",
+  "description": "An enterprise-grade resume extraction tool that uses Gemini 3 Flash to transform unstructured PDF/Image resumes into structured JSON data including contact info, education, work experience, and skills.",
+  "requestFramePermissions": []
+}
